@@ -1,0 +1,9 @@
+pandas
+numpy
+openai
+langchain
+requests
+scrapy
+selenium
+faiss-cpu 
+tiktoken
