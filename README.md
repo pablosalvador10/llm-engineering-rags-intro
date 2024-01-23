@@ -4,7 +4,7 @@ Welcome to LLM-Engineering-RAGs-Intro, a collection of projects focused on the i
 
 ## Structure 📂
 
-- 🛠️**Projects**: Located in the `projects` folder, each project is a self-contained example demonstrating how to apply RAGs and LLMs to solve real-world engineering problems.  
+- 🛠️ **Projects**: Located in the `projects` folder, each project is a self-contained example demonstrating how to apply RAGs and LLMs to solve real-world engineering problems.  
 
 - 🏗️ **System Designs**: The `system_designs` folder houses detailed designs and architectures that underpin the integration of RAGs and LLMs into engineering operations.
 
